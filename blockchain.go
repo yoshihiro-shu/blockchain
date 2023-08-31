@@ -1,7 +1,6 @@
-package goblockchain
+package blockchain
 
 import (
-	"encoding/json"
 	"fmt"
 	"strings"
 )

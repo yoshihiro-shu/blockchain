@@ -1,4 +1,4 @@
-package goblockchain
+package blockchain
 
 import (
 	"crypto/sha256"
